@@ -1,0 +1,63 @@
+structure:
+  type: base
+  color: WHITE
+  direction: SOUTH
+  locations:
+    BASE_FLAG:
+    - world_domination,-94,75,-50
+    BASE_SKY:
+    - world_domination,-94,104,-65
+    - world_domination,-94,103,-65
+    - world_domination,-94,102,-65
+    - world_domination,-94,104,-64
+    - world_domination,-94,103,-64
+    - world_domination,-94,102,-64
+    - world_domination,-94,104,-63
+    - world_domination,-94,103,-63
+    - world_domination,-94,102,-63
+    - world_domination,-93,104,-63
+    - world_domination,-93,103,-63
+    - world_domination,-93,102,-63
+    - world_domination,-92,104,-63
+    - world_domination,-92,103,-63
+    - world_domination,-92,102,-63
+    - world_domination,-92,104,-64
+    - world_domination,-92,103,-64
+    - world_domination,-92,102,-64
+    - world_domination,-92,104,-65
+    - world_domination,-92,103,-65
+    - world_domination,-92,102,-65
+    - world_domination,-93,104,-65
+    - world_domination,-93,103,-65
+    - world_domination,-93,102,-65
+    BASE_MAP:
+    - world_domination,-166,82,-73
+    - world_domination,174,86,-58
+    BASE_GLASS_FLOOR:
+    - world_domination,-92,72,-52
+    - world_domination,-92,72,-51
+    - world_domination,-92,72,-50
+    - world_domination,-92,72,-49
+    - world_domination,-92,72,-48
+    - world_domination,-93,72,-48
+    - world_domination,-93,72,-49
+    - world_domination,-93,72,-50
+    - world_domination,-93,72,-51
+    - world_domination,-93,72,-52
+    - world_domination,-94,72,-52
+    - world_domination,-94,72,-51
+    - world_domination,-94,72,-50
+    - world_domination,-94,72,-49
+    - world_domination,-94,72,-48
+    - world_domination,-95,72,-48
+    - world_domination,-95,72,-49
+    - world_domination,-95,72,-50
+    - world_domination,-95,72,-51
+    - world_domination,-95,72,-52
+    - world_domination,-96,72,-52
+    - world_domination,-96,72,-51
+    - world_domination,-96,72,-50
+    - world_domination,-96,72,-49
+    - world_domination,-96,72,-48
+    BASE_GLASS_BEACON:
+    - world_domination,-93,72,-64

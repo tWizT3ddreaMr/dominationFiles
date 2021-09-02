@@ -1,0 +1,63 @@
+structure:
+  type: base
+  color: WHITE
+  direction: SOUTH
+  locations:
+    BASE_FLAG:
+    - world_domination,-8,54,-143
+    BASE_SKY:
+    - world_domination,-13,101,-181
+    - world_domination,-13,100,-181
+    - world_domination,-13,99,-181
+    - world_domination,-12,99,-181
+    - world_domination,-12,100,-181
+    - world_domination,-12,101,-181
+    - world_domination,-11,101,-181
+    - world_domination,-11,100,-181
+    - world_domination,-11,99,-181
+    - world_domination,-11,99,-182
+    - world_domination,-11,100,-182
+    - world_domination,-11,101,-182
+    - world_domination,-11,101,-183
+    - world_domination,-11,100,-183
+    - world_domination,-11,99,-183
+    - world_domination,-12,99,-183
+    - world_domination,-12,100,-183
+    - world_domination,-12,101,-183
+    - world_domination,-13,101,-183
+    - world_domination,-13,100,-183
+    - world_domination,-13,99,-183
+    - world_domination,-13,99,-182
+    - world_domination,-13,100,-182
+    - world_domination,-13,101,-182
+    BASE_MAP:
+    - world_domination,172,84,-58
+    - world_domination,-168,84,-73
+    BASE_GLASS_FLOOR:
+    - world_domination,-6,51,-145
+    - world_domination,-6,51,-144
+    - world_domination,-6,51,-143
+    - world_domination,-6,51,-142
+    - world_domination,-6,51,-141
+    - world_domination,-7,51,-141
+    - world_domination,-7,51,-142
+    - world_domination,-7,51,-143
+    - world_domination,-7,51,-144
+    - world_domination,-7,51,-145
+    - world_domination,-8,51,-145
+    - world_domination,-8,51,-144
+    - world_domination,-8,51,-143
+    - world_domination,-8,51,-142
+    - world_domination,-8,51,-141
+    - world_domination,-9,51,-141
+    - world_domination,-9,51,-142
+    - world_domination,-9,51,-143
+    - world_domination,-9,51,-144
+    - world_domination,-9,51,-145
+    - world_domination,-10,51,-145
+    - world_domination,-10,51,-144
+    - world_domination,-10,51,-143
+    - world_domination,-10,51,-142
+    - world_domination,-10,51,-141
+    BASE_GLASS_BEACON:
+    - world_domination,-12,53,-182

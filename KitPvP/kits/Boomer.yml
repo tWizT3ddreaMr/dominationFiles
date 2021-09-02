@@ -1,0 +1,68 @@
+Kit:
+  Permission: kp.kit.Boomer
+  Cooldown: 0
+  Level: 0
+Inventory:
+  Armor:
+    Helmet:
+      Name: '&7Bomber Helmet'
+      Material: LEATHER_HELMET
+      Dye:
+        Red: 252
+        Green: 45
+        Blue: 59
+    Chestplate:
+      Name: '&7Bomber Chestplate'
+      Material: LEATHER_CHESTPLATE
+      Dye:
+        Red: 252
+        Green: 45
+        Blue: 59
+    Leggings:
+      Name: '&7Bomber Leggings'
+      Material: LEATHER_LEGGINGS
+      Dye:
+        Red: 252
+        Green: 45
+        Blue: 59
+    Boots:
+      Name: '&7Bomber Boots'
+      Material: LEATHER_BOOTS
+      Dye:
+        Red: 252
+        Green: 45
+        Blue: 59
+  Items:
+    '0':
+      Name: '&aBomber''s Sword'
+      Material: IRON_SWORD
+    '1':
+      Name: '&aThrowable TNT &7(Right Click)'
+      Material: TNT
+      Amount: 16
+    '2':
+      Name: '&aTNT Trail &7(Right Click)'
+      Material: COAL
+      Amount: 3
+Effects:
+  SPEED:
+    Amplifier: 2
+    Duration: 99995
+Abilities:
+  Example:
+    Activator:
+      Name: '&aDefault Ability &7(Must be modified in kit file)'
+      Material: EMERALD
+    Message:
+      Message: '&7You have used your ability.'
+    Sound:
+      Sound: BLOCK_NOTE_BLOCK_PLING
+      Pitch: 1
+      Volume: 1
+    Effects:
+      SPEED:
+        Amplifier: 1
+        Duration: 10
+    Commands:
+    - 'console: This command is run from the console, you can use %player%'
+    - 'player: This command is run from the player, you can use %player%'

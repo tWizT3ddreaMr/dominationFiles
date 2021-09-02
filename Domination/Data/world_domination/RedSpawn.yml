@@ -1,0 +1,34 @@
+structure:
+  type: spawn
+  color: RED
+  direction: SOUTH
+  locations:
+    SPAWN:
+    - world_domination,171,81,-78
+    - world_domination,172,81,-78
+    - world_domination,175,81,-78
+    - world_domination,176,81,-78
+    - world_domination,176,81,-76
+    - world_domination,175,81,-76
+    - world_domination,172,81,-76
+    - world_domination,171,81,-76
+    - world_domination,171,81,-74
+    - world_domination,172,81,-74
+    - world_domination,175,81,-74
+    - world_domination,176,81,-74
+    SPAWN_GATE:
+    - world_domination,150,79,-66
+    - world_domination,150,79,-65
+    - world_domination,150,79,-64
+    - world_domination,150,79,-63
+    - world_domination,150,79,-62
+    - world_domination,150,80,-65
+    - world_domination,150,80,-64
+    - world_domination,150,80,-66
+    - world_domination,150,80,-63
+    - world_domination,150,80,-62
+    - world_domination,150,81,-65
+    - world_domination,150,81,-64
+    - world_domination,150,81,-66
+    - world_domination,150,81,-63
+    - world_domination,150,81,-62

@@ -1,0 +1,30 @@
+Kit:
+  Permission: kp.kit.thunderbolt
+  Level: 0
+  Cooldown: 0
+Inventory:
+  Armor:
+    Helmet:
+      Name: '&7Thunderbolt Helmet'
+      Material: LEATHER_HELMET
+      Dye:
+        Red: 224
+        Green: 249
+        Blue: 0
+    Chestplate:
+      Name: '&7Thunderbolt Chestplate'
+      Material: GOLD_CHESTPLATE
+    Leggings:
+      Name: '&7Thunderbolt Leggings'
+      Material: GOLD_LEGGINGS
+    Boots:
+      Name: '&7Thunderbolt Boots'
+      Material: GOLD_BOOTS
+  Items:
+    '0':
+      Name: '&aThunderbolt''s Sword'
+      Material: GOLD_SWORD
+    '1':
+      Name: '&aLightning Strike &7(Click Player)'
+      Material: BLAZE_ROD
+      Amount: 3

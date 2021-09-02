@@ -1,0 +1,63 @@
+structure:
+  type: base
+  color: WHITE
+  direction: SOUTH
+  locations:
+    BASE_FLAG:
+    - world_domination,-2,82,-57
+    BASE_SKY:
+    - world_domination,2,110,-73
+    - world_domination,2,109,-73
+    - world_domination,2,108,-73
+    - world_domination,3,110,-73
+    - world_domination,3,109,-73
+    - world_domination,3,108,-73
+    - world_domination,4,110,-73
+    - world_domination,4,109,-73
+    - world_domination,4,108,-73
+    - world_domination,4,110,-74
+    - world_domination,4,109,-74
+    - world_domination,4,108,-74
+    - world_domination,4,110,-75
+    - world_domination,4,109,-75
+    - world_domination,4,108,-75
+    - world_domination,3,110,-75
+    - world_domination,3,109,-75
+    - world_domination,3,108,-75
+    - world_domination,2,110,-75
+    - world_domination,2,109,-75
+    - world_domination,2,108,-75
+    - world_domination,2,110,-74
+    - world_domination,2,109,-74
+    - world_domination,2,108,-74
+    BASE_MAP:
+    - world_domination,-166,84,-73
+    - world_domination,174,84,-58
+    BASE_GLASS_FLOOR:
+    - world_domination,0,79,-59
+    - world_domination,0,79,-58
+    - world_domination,0,79,-57
+    - world_domination,0,79,-56
+    - world_domination,0,79,-55
+    - world_domination,-1,79,-55
+    - world_domination,-1,79,-56
+    - world_domination,-1,79,-57
+    - world_domination,-1,79,-58
+    - world_domination,-1,79,-59
+    - world_domination,-2,79,-59
+    - world_domination,-2,79,-58
+    - world_domination,-2,79,-57
+    - world_domination,-2,79,-56
+    - world_domination,-2,79,-55
+    - world_domination,-3,79,-55
+    - world_domination,-3,79,-56
+    - world_domination,-3,79,-57
+    - world_domination,-3,79,-58
+    - world_domination,-3,79,-59
+    - world_domination,-4,79,-59
+    - world_domination,-4,79,-58
+    - world_domination,-4,79,-57
+    - world_domination,-4,79,-56
+    - world_domination,-4,79,-55
+    BASE_GLASS_BEACON:
+    - world_domination,3,80,-74

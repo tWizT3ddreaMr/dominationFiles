@@ -1,0 +1,13 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - kp.ability.*
+    - kp.command.menu
+    - kp.command.clear
+    - kp.command.remove
+    - kp.kit.*
+    - modifyworld.*
+schema-version: 1
+users: {}

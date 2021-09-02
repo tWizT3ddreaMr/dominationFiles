@@ -1,0 +1,73 @@
+# Thanks for purchasing Domination! #
+# IF YOU HAVE A QUESTION COME HOP IN MY DISCORD: https://discord.gg/GpSwEWS #
+#=====================================#
+
+# =================================================================== #
+#                         GENERAL SETTINGS                            #
+# =================================================================== #
+
+# If you want to use permissions with Domination, you must set this to true #
+usePermissions: false
+
+# This is the main command of the plugin #
+dominationCommand: 'domination'
+
+# This is the main command of the plugin for setting up structures #
+structureCommand: 'structure'
+
+# This is the name of the world folder that will be used for the domination game
+worldName: 'world_domination'
+
+# Set this to true to turn on debug logging in console #
+debug: false
+
+# =================================================================== #
+#                           GAME SETTINGS                             #
+# =================================================================== #
+
+# These are the names of the two teams that will be displayed to players #
+blueTeamName: 'ArmyAnts'
+redTeamName: 'tWizsArmy'
+
+# This is the minimum team size required to start the Arathi Basin game (automatically) #
+minTeamSize: 5
+# This is the maximum amount of players allowed on a team in the game #
+maxTeamSize: 15
+
+# This is the time (in seconds) that players will be given to prepare for the battle before it starts #
+startWait: 30
+# This is the time (in seconds) that players will be given to leave the battle world before it closes #
+endWait: 120
+# This is the time (in seconds) that players will need to wait after respawning until they can teleport with the wall map in base #
+respawnWait: 0
+
+# When this score is reached, players on both teams will get an alert that winning team is close to victory #
+scoreWarning: 1400
+# When this score is reached, the winner is announced and the game will end #
+scoreWin: 1600
+# This is the max time limit (in minutes) of the game. Game will end if this limit is reached. Set to 0 for no limit #
+gameMaxTime: 0
+# When this time (in minutes) is reached, the remaining time is announced. Set to 0 for no announcement #
+gameTimeWarning: 0
+
+# This is the amount of time (in ticks) that bases will scan for nearby players #
+# Setting this to a lower number will decrease base assault time but may put more stress on server #
+baseAssaultInterval: 40
+# This is the amount of time (in seconds) that bases need to remain controlled until they are captured #
+baseCaptureInterval: 60
+
+# =================================================================== #
+#                   ECONOMY AND REWARD SETTINGS                       #
+# =================================================================== #
+
+# this is how much a player must pay to enter the game (requires Vault) #
+vaultEntryCost: 0
+
+# this is an optional list of commands that will be run if a player wins or loses in domination
+     # EXAMPLES:
+     # - "give [player] diamond"
+     # - "eco give [player] 1000"
+winnerCommands:
+- ''
+loserCommands:
+- ''

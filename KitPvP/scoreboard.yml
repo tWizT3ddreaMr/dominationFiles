@@ -1,0 +1,20 @@
+# To learn more about customizing the Scoreboard, please
+# visit the scoreboard.yml documentation on GitHub:
+# https://github.com/cervinakuy/KitPvP/wiki/scoreboard.yml
+
+Scoreboard:
+  General:
+    Title: '&0     &r&b&lSTATS     &0'
+    Enabled: true
+  Lines:
+  - ' '
+  - '&e&lStats'
+  - '&aName: &f%player%'
+  - '&aKills: &f%kills%'
+  - '&aDeaths: &f%deaths%'
+  - ' '
+  - '&c&lKill Streak'
+  - '&f%streak% Kills'
+  - ' '
+  - '&4%domination_red_name%&c: %domination_red_score%'
+  - '&1%domination_blue_name%&b: %domination_blue_score%'
